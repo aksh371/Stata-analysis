@@ -27,8 +27,8 @@ In this project, I conducted a comprehensive investigation into the relationship
 
    where:
    X1, X2 = Variables that are time-dependent
-   γ = Dummy variable coefficient for each entity which captures the heterogeneity
-   uit  = Idiosyncratic error Term
-   αi  = Fixed effects term.
+   ,γ = Dummy variable coefficient for each entity which captures the heterogeneity
+   ,uit  = Idiosyncratic error Term
+   ,αi  = Fixed effects term.
    A demeaned within-groups regression was done on the data and hence the αi (fixed effects) term was eliminated.
 
